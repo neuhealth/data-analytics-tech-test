@@ -63,6 +63,3 @@ As part of your submission, please provide:
   * You should highlight your analytical approach, insights into patient churn and engagement, and any assumptions, limitations, or further questions your analysis raises
 
 Your presentation does not need to cover every detail of your work but do focus on clarity, key insights, and how they might inform product or clinical decisions.
-
-Your presentation does not need to cover every detail of your work—focus on clarity, key insights, and how they might inform product or clinical decisions.
-
