@@ -54,12 +54,9 @@ Exercise-level engagement data. Each row corresponds to an individually schedule
 
 ## Expected Outputs
 
-As part of your submission, please provide:
-
-* Your analysis in the format of your choice (e.g., notebook, slides, or written report), clearly explaining your methodology, key findings, and recommendations.
-* A brief presentation summarising your work.
-  * This will be delivered at the start of the panel interview.
-  * Maximum length: 10 minutes
-  * You should highlight your analytical approach, insights into patient churn and engagement, and any assumptions, limitations, or further questions your analysis raises
+As part of your submission, please provide a brief presentation summarising your work.
+* This will be delivered at the start of the panel interview.
+* Maximum length: 10 minutes
+* You should highlight your analytical approach, insights into patient churn and engagement, and any assumptions, limitations, or further questions your analysis raises
 
 Your presentation does not need to cover every detail of your work but do focus on clarity, key insights, and how they might inform product or clinical decisions.
